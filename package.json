@@ -45,6 +45,6 @@
     "yargs": "^11.0.0"
   },
   "devDependencies": {
-    "eslint-config-airbnb-bundle": "^2.0.1"
+    "eslint-config-airbnb-bundle": "^3.0.0"
   }
 }
